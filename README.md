@@ -1,7 +1,8 @@
-# Historic-Art-Gallery-WinForm
-Group Project, Creating Gallery System using Windows form C#
+# Historic-Art Gallery-System WinForm
+Group Project, ( An Art Gallery System )
 
 Language Used: C#
+Type: Windows Form
 
 - Local SQL Database in VS 
 - SQL (CREATE, UPDATE, DELETE) CRUD METHOD
