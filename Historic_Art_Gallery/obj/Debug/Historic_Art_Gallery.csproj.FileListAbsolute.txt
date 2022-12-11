@@ -1,0 +1,32 @@
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Historic_Art_Gallery.exe.config
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Historic_Art_Gallery.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Historic_Art_Gallery.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Login.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Register2.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Gallery.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Accounts.mdf
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Accounts_log.ldf
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.UploadForm.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.RegisteredMembers.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.ZoomView.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Historic_Art_Gallery.exe.config
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.exe
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.pdb
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Accounts.mdf
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Accounts_log.ldf
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Historic_Art_Gallery.exe
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\bin\Debug\Historic_Art_Gallery.pdb
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Gallery.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Login.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Properties.Resources.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.Register2.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.RegisteredMembers.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.UploadForm.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.ZoomView.resources
+C:\Users\ACER\Downloads\Historic_Art_Gallery\Historic_Art_Gallery\obj\Debug\Historic_Art_Gallery.csproj.GenerateResource.Cache
