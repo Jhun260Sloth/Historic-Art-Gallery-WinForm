@@ -12,3 +12,5 @@ Members
 - Jhunnel
 - King
 - Elizabeth
+
+![Screenshot 2022-12-11 151831](https://user-images.githubusercontent.com/99332717/206893589-05fad56b-b078-40d6-b7a9-94b438803807.png)
