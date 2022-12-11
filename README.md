@@ -5,6 +5,10 @@ Language Used: C#
 
 - Local SQL Database in VS 
 - SQL (CREATE, UPDATE, DELETE) CRUD METHOD
+- Able to View and Zoom Arts 
+- Details and Infromation about the Arts
+- Account Management (Create, Delete)
+- Login, Register, Upload, Account list and Main Gallery Design Layout
 
 Members
 - Jandel
